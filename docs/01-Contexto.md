@@ -1,41 +1,25 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto. Visando contextualizar melhor o projeto e destacar sua importância para a disciplina, que é **extensionista**, acrescente todas as informações relevantes que julgar necessárias.
+Este projeto tem como objetivo o desenvolvimento de um agente de Inteligência Artificial voltado para auxiliar e automatizar o processo de vendas na internet. A proposta consiste na criação de um sistema capaz de realizar atendimentos, apresentar produtos, responder dúvidas e conduzir a venda de forma autônoma, reduzindo a necessidade de intervenção humana constante. O projeto está em fase inicial de crescimento e surge a partir da necessidade de otimizar tempo, melhorar a eficiência e escalar vendas no ambiente digital, especialmente em contextos onde o vendedor atua de forma individual ou com recursos limitados.
 
-## Cliente 
-Nesta seção, devem ser apresentadas informações essenciais sobre o cliente (parceiro) para garantir um entendimento mais preciso do projeto como uma iniciativa extensionista.  
+A justificativa do projeto está na relevância prática e acadêmica da solução, alinhando conceitos de tecnologia, automação e inteligência artificial com uma aplicação real. O público-alvo inicial é o próprio desenvolvedor, porém a solução pode ser aplicada futuramente a pequenos empreendedores e negócios digitais. Por se tratar de uma disciplina extensionista, o projeto contribui para o desenvolvimento técnico, a inovação e a aplicação do conhecimento adquirido em sala de aula para resolver problemas reais do mercado digital.
 
-Recomenda-se incluir dados como missão, visão e valores da organização, além de seu ramo de atuação, porte, nicho de mercado e principais desafios enfrentados. Também é relevante fornecer informações sobre sua localização, histórico, impacto social e possíveis demandas específicas. Quanto mais detalhadas forem essas informações, mais embasada será a análise do contexto, permitindo uma abordagem estratégica e alinhada às necessidades do cliente.
 
 ## Problema
-Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+O principal problema que motiva a criação desta aplicação está relacionado à dificuldade de manter um processo de vendas online eficiente, contínuo e escalável quando realizado de forma manual. No ambiente digital, clientes esperam respostas rápidas, atendimento constante e informações claras sobre produtos ou serviços. No entanto, quando o vendedor atua sozinho ou com recursos limitados, torna-se inviável estar disponível em tempo integral, o que pode resultar em perda de oportunidades de venda, atraso no atendimento e diminuição da qualidade da experiência do cliente.
 
-O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite uma visão completa do problema.
-
-> **Links úteis**:
-> - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz certezas, suposições e dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A aplicação será utilizada no contexto do comércio eletrônico e das vendas online, inicialmente para uso pessoal do desenvolvedor, que atua ou pretende atuar nesse meio. O cenário envolve plataformas digitais de venda, atendimento ao cliente e comunicação online, onde a automação surge como uma necessidade para otimizar tempo e melhorar resultados. A proposta parte da observação prática desse problema no cotidiano das vendas pela internet, buscando compreender as reais dificuldades enfrentadas nesse ambiente. Para uma melhor compreensão do desafio, o projeto pode se apoiar em abordagens como o Design Thinking, permitindo analisar o problema a partir das necessidades do usuário, do contexto de uso e das limitações existentes, antes da definição de qualquer solução técnica.
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
-
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
- 
-> **Links úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolver um software voltado para a automação de vendas online, com o propósito de auxiliar no atendimento ao cliente e na condução do processo de vendas de forma contínua e eficiente, minimizando as limitações do atendimento manual no ambiente digital.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A motivação para o desenvolvimento desta aplicação surge da observação prática das dificuldades enfrentadas no processo de vendas online, especialmente quando o atendimento é realizado de forma manual e individual. A necessidade de responder rapidamente aos clientes, manter disponibilidade constante e organizar informações de vendas torna-se um desafio diário, o que pode impactar diretamente nos resultados e na experiência do usuário. Diante desse cenário, trabalhar com uma solução que busque otimizar e organizar esse processo mostra-se relevante tanto do ponto de vista prático quanto acadêmico.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Além disso, o projeto foi escolhido por permitir um aprofundamento em aspectos relacionados à automação de processos e à aplicação de soluções digitais em problemas reais. A definição do objetivo do software está diretamente ligada ao interesse em compreender melhor o comportamento do consumidor no ambiente digital e as necessidades dos usuários durante o processo de compra. Para embasar essa escolha, podem ser utilizados questionários e observações informais sobre o atendimento online, permitindo identificar pontos críticos como tempo de resposta, dúvidas recorrentes e abandono de atendimento. Dessa forma, o projeto contribui para o aprendizado, a inovação e a aplicação dos conhecimentos adquiridos ao longo do curso em um contexto real.
 
 ## Público-alvo
 
