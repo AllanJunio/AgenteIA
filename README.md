@@ -1,35 +1,26 @@
-# Nome do projeto
+# Projeto IA
 
 `CURSO: Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA: Trabalho Interdisciplinar Aplicação Móvel`
+A proposta deste projeto é desenvolver e aprimorar nossas habilidades por meio do uso de agentes de Inteligência Artificial, buscando automatizar ideias, explorar soluções inovadoras e aplicar, na prática, os conhecimentos adquiridos ao longo de nossa trajetória de aprendizagem. O projeto tem como foco o aprofundamento técnico e conceitual, permitindo que os participantes compreendam, dominem e experimentem tecnologias de forma livre e criativa.
 
-`Xº semestre/ANO`
+Além disso, o projeto visa criar um ambiente colaborativo entre amigos e colegas com diferentes níveis de conhecimento, incentivando a troca de experiências, o trabalho em equipe e o networking na área de tecnologia, com ênfase no desenvolvimento web e mobile. As ideias, aplicações e possíveis usos das soluções desenvolvidas ainda serão definidas coletivamente, respeitando a liberdade criativa do grupo e a evolução natural do projeto.
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+Trata-se de um trabalho independente, sem vínculo inicial com instituições acadêmicas, obrigações curriculares ou apoio formal de entidades educacionais. Seu objetivo principal é o aprendizado contínuo, prático e aplicado ao cotidiano, servindo como um espaço experimental onde alunos e desenvolvedores possam testar conceitos, errar, aprender e evoluir, independentemente de suas formações ou níveis de experiência.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Allan Junio
+* Luis Gustavo
+* Thiago Marques 
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* 
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-Não deixe de informar o link onde a aplicação estará disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 
 # Documentação
 
